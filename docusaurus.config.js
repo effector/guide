@@ -1,17 +1,17 @@
 module.exports = {
-  title: 'My Site',
+  title: 'Effector guide',
   tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://effector.guide',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'effector', // Usually your GitHub org/user name.
+  projectName: 'guide', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Effector Guide',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Effector Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -23,7 +23,7 @@ module.exports = {
         },
         {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/effector/effector',
           label: 'GitHub',
           position: 'right',
         },

@@ -1,0 +1,4 @@
+---
+id: generalization
+title: Generalization
+---
